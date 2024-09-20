@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tomredfern24
-- 🌱 I’m currently learning Data Analysis: MySQL, Python, Pandas, PowerBI, Tableau
+- 🌱 I’m currently learning Data Analysis: MySQL, Python, Pandas, PowerBI
 - 📫 How to reach me: at my email tomredfern24@gmail.com or my linkedin profile https://www.linkedin.com/in/tom-r-029088289
 - 😄 Pronouns: He/Him
